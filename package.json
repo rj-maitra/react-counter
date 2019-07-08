@@ -1,6 +1,6 @@
 {
   "name": "react-counter-app",
-  "homepage" : "https://rj-maitra.github.io/react-counter-app/",
+  "homepage" : "https://rj-maitra.github.io/react-counter/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

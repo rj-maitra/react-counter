@@ -1,0 +1,27 @@
+.home {
+  margin: 0 auto;
+}
+.jumbotron {
+  margin-top: 20rem;
+}
+/* 
+.col {
+  display: flex;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+}
+
+.class {
+  width: 150px;
+  margin: 10px 50px;
+} */
+
+button {
+  margin: .1rem;
+
+}
+
+h4 {
+  display: inline;
+  margin: 1rem;
+}
